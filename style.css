@@ -1,0 +1,16 @@
+.container{
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+    height: 100vh;
+    width: 100vw;
+    padding-left: 400px;
+}
+
+h1{
+    font-style: italic;
+    font-weight: 300;
+    padding-bottom: 50px;
+    color: #ff4d4d;
+}
+
